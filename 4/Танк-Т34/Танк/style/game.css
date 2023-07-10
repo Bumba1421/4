@@ -1,0 +1,89 @@
+
+.can1 { 
+	border: 0px;
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+
+.can0 { 
+	border: 0px;
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 2;
+	background-color: transparent;
+}
+
+.can2 { 
+	border: 0px;
+	position:relative;
+	left: 0px;
+	top: 0px;
+	z-index: 3;
+	background-color: transparent;
+	cursor:crosshair;
+}
+
+.pdiv {
+	position:absolute;
+	left: 0px;
+	top: 0px;
+	display: none;
+}
+
+.mdiv {
+	position:absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.nfig { 
+	border: 1px #1144BB solid;
+	margin-top: 3px;
+}
+
+.tp1 {
+	border: 0px;
+	padding: 0px;
+	border-spacing: 0px 0px;
+}
+
+.ptx {
+	font-family: Georgia,Arial,Tahoma,Helvetica,Sans-serif,Verdana;
+	cursor: default;
+	-ms-user:select: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+}
+
+.but {
+	border: 2px #55DDFF solid;
+	cursor: pointer;
+	margin: 2px;
+}
+
+.sbar {
+	font-family: Georgia,Arial,Tahoma,Helvetica,Sans-serif,Verdana;
+	border-left: 3px #aaccff solid;
+	border-top: 3px #aaccff solid;
+	border-right: 3px #77aacc solid;
+	border-bottom: 3px #77aacc solid;
+	background-color: #bfdfff;
+	color: #000033;
+	cursor: default;
+	-ms-user:select: none;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	-webkit-user-select: none;
+}
+
+.ctrl {
+	border-left: 3px #001133 solid;
+	border-bottom: 3px #001133 solid;	
+	border-top: 3px #334477 solid;
+	border-right: 3px #334477 solid;
+	background-color: #112255;
+}

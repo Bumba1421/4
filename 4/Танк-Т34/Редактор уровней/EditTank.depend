@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1675406730 source:d:\мои проекты c99-c11 & с++14\edittank\dialog.cpp
+	"headers.h"
+
+1677316805 d:\мои проекты c99-c11 & с++14\edittank\headers.h
+	<windows.h>
+	<windowsx.h>
+	<ole2.h>
+	<commdlg.h>
+	<commctrl.h>
+	<cderr.h>
+	<string>
+	<cstring>
+	<memory>
+	<unordered_map>
+	<initializer_list>
+	<type_traits>
+	<vector>
+	<forward_list>
+	<cmath>
+	<wchar.h>
+	<stdio.h>
+	<gdiplus.h>
+	"resource.h"
+	"dialog.h"
+	"settings.h"
+	"application.h"
+
+1676806830 d:\мои проекты c99-c11 & с++14\edittank\resource.h
+
+1675308083 d:\мои проекты c99-c11 & с++14\edittank\dialog.h
+
+1676807366 d:\мои проекты c99-c11 & с++14\edittank\settings.h
+
+1676807057 d:\мои проекты c99-c11 & с++14\edittank\application.h
+
+1676687584 source:d:\мои проекты c99-c11 & с++14\edittank\main.cpp
+	"headers.h"
+	"resource.h"
+
+1676806924 source:d:\мои проекты c99-c11 & с++14\edittank\resource.rc
+	<windows.h>
+	<commctrl.h>
+	"resource.h"
+
+1676807366 source:d:\мои проекты c99-c11 & с++14\edittank\settings.cpp
+	"headers.h"
+
+1677316891 source:d:\мои проекты c99-c11 & с++14\edittank\application.cpp
+	"headers.h"
+	"resource.h"
+
